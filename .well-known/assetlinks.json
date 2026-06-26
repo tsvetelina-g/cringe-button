@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.onrender.cringe_button.twa",
+        "sha256_cert_fingerprints": ["60:03:55:CA:2E:BB:4B:01:88:F6:37:2E:5F:0F:17:33:A0:3C:B6:86:CE:17:B9:33:7C:FF:8A:CD:7E:62:EE:B0"]
+      }
+    }]
